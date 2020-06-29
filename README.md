@@ -1,4 +1,4 @@
-# Visual Studio Codespaces
+
 
 Welcome to Visual Studio Codespaces! This environment provides you with a full-fidelity development experience, that is accessible from anywhere. It's the same Visual Studio Code experience you already know and love, only powered by the cloud 💙 ☁️
 
@@ -6,7 +6,7 @@ Clone a repo, edit some code, [spin up a terminal](https://docs.microsoft.com/en
 
 If you're working on multiple projects, then go ahead and create multiple environments. You can quickly switch between them, knowing that each one has its own dedicated resources. Additionally, feel free to spin up environments for ad-hoc tasks such as reviewing a PR or doing some pair programming with a colleague. With Visual Studio Codespaces, you can eradicate setup from all of your everyday tasks 🔥 🙌
 
-## Helpful Resources
+### Helpful Resources
 
 * [What is Visual Studio Codespaces?](https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline)
 * [How-to Guide: VS Code](https://docs.microsoft.com/en-us/visualstudio/online/how-to/vscode#install)
